@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Call-Vista/static/css/main.982695d8.css",
+    "main.js": "/Call-Vista/static/js/main.a3b346fa.js",
+    "static/js/787.beb4f20b.chunk.js": "/Call-Vista/static/js/787.beb4f20b.chunk.js",
+    "index.html": "/Call-Vista/index.html",
+    "static/media/video.svg": "/Call-Vista/static/media/video.4cbd513c1b9496984b1bd6e82a46c6f2.svg",
+    "main.982695d8.css.map": "/Call-Vista/static/css/main.982695d8.css.map",
+    "main.a3b346fa.js.map": "/Call-Vista/static/js/main.a3b346fa.js.map",
+    "787.beb4f20b.chunk.js.map": "/Call-Vista/static/js/787.beb4f20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.982695d8.css",
+    "static/js/main.a3b346fa.js"
+  ]
+}
